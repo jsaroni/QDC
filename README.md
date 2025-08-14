@@ -1,2 +1,2 @@
-# QDC_2024
+# QDC
 Quantum Developers Conference 2024
